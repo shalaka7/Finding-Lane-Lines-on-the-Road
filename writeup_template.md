@@ -31,7 +31,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 Sample output image
 
-![alt text][http://localhost:8888/view/Self%20Driving%20Car%20Codebase/udacity_project_1/test_images/output_solidWhiteCurve.jpg]
+![alt text][./test_images/output_solidWhiteCurve.jpg]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
